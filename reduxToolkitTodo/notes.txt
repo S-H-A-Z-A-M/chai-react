@@ -1,0 +1,11 @@
+steps: 
+
+
+1 Redux and React-redux are two different things.
+2. Redux is core library, and React-redux is a implementation of it, it provides us a way for react and redux to communicate with each other.
+Redux toolkit provide various functionality
+
+
+
+1. First we start with creating a store(mostly it is one) also known as single source of truth.
+2. IN REDUX THE STATE GETS PRESERVED IN CONTEXT API IT DOESNT HAPPEN.
